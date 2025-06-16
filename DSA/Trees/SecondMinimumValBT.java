@@ -1,3 +1,4 @@
+// @tag:LinkedIn
 public class SecondMinimumValBT {
 
     public int findSecondMinimumValue(TreeNode root) {
